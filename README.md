@@ -13,7 +13,7 @@
    
    Download the dataset WiAR from[here](https://github.com/ermongroup/Wifi_Activity_Recognition).
    
-   Download the dataset HTHI from[here]()
+   Download the dataset HTHI from[here](https://drive.google.com/file/d/1R79ciMFIr_6GgwnJeP3EzJokiWu80hun/view?usp=sharing)
 2. "git clone" this repository.
    
 3. Datasets ARIL and HTHI do not require processing. Datasets ARIL and HTHI do not require processing，
