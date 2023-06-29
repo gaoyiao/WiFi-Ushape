@@ -9,4 +9,4 @@
 * scikit-learn
 
 ## How to run
-0. Download the dataset ARIL from
+0. Download the dataset ARIL from[Joint Activity Recognition and Indoor Localization With WiFi Fingerprints](https://ieeexplore.ieee.org/abstract/document/8740950).
